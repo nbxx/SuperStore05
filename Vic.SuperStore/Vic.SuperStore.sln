@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperStore.UI.AdminConsoleApp", "Vic.SuperStore.UI.AdminConsoleApp\Vic.SuperStore.UI.AdminConsoleApp.csproj", "{6672F5D4-68E5-456F-8E0A-56F99C917FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperStore.Data.Entities", "Vic.SuperStore.Data.Entities\Vic.SuperStore.Data.Entities.csproj", "{0F0709E2-0EA8-4A2C-95FC-56A2C9D7999F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperStore.Services", "Vic.SuperStore.Services\Vic.SuperStore.Services.csproj", "{CC4D0AC5-A039-43B8-8921-AC853F4472C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperStore.Data.Repositories", "Vic.SuperStore.Data.Repositories\Vic.SuperStore.Data.Repositories.csproj", "{1C132CFA-A46A-461F-99BC-47746D277506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperStore.UI.WinFormApp", "Vic.SuperStore.UI.WinFormApp\Vic.SuperStore.UI.WinFormApp.csproj", "{1B759CDE-1116-4ED5-84FF-58CD20B029DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperStore.UI.CustomerConsoleApp", "Vic.SuperStore.UI.CustomerConsoleApp\Vic.SuperStore.UI.CustomerConsoleApp.csproj", "{055A6B32-9623-47CA-B4A4-F499C56DC9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6672F5D4-68E5-456F-8E0A-56F99C917FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6672F5D4-68E5-456F-8E0A-56F99C917FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6672F5D4-68E5-456F-8E0A-56F99C917FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6672F5D4-68E5-456F-8E0A-56F99C917FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0709E2-0EA8-4A2C-95FC-56A2C9D7999F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0709E2-0EA8-4A2C-95FC-56A2C9D7999F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0709E2-0EA8-4A2C-95FC-56A2C9D7999F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0709E2-0EA8-4A2C-95FC-56A2C9D7999F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4D0AC5-A039-43B8-8921-AC853F4472C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4D0AC5-A039-43B8-8921-AC853F4472C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4D0AC5-A039-43B8-8921-AC853F4472C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4D0AC5-A039-43B8-8921-AC853F4472C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C132CFA-A46A-461F-99BC-47746D277506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C132CFA-A46A-461F-99BC-47746D277506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C132CFA-A46A-461F-99BC-47746D277506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C132CFA-A46A-461F-99BC-47746D277506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B759CDE-1116-4ED5-84FF-58CD20B029DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B759CDE-1116-4ED5-84FF-58CD20B029DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B759CDE-1116-4ED5-84FF-58CD20B029DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B759CDE-1116-4ED5-84FF-58CD20B029DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055A6B32-9623-47CA-B4A4-F499C56DC9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055A6B32-9623-47CA-B4A4-F499C56DC9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055A6B32-9623-47CA-B4A4-F499C56DC9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055A6B32-9623-47CA-B4A4-F499C56DC9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB9FBDF5-27D9-479A-88D2-22E0EFFFAD0E}
+	EndGlobalSection
+EndGlobal
